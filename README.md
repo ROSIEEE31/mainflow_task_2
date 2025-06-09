@@ -28,8 +28,6 @@ A boutique-style coffee recipe website with a login system, dynamic navbar, and 
 1. HTML pages include:
    ```html
    <div id="navbar-container"></div>
-   <script src="js/navbar.js"></script>
-The JS loads the PHP navbar from /includes/navbar.php.
 
 PHP checks for $_SESSION and adjusts links dynamically.
 
